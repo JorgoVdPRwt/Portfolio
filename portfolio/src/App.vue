@@ -1,24 +1,18 @@
 <template>
-  <p> hello world </p>
+  <Homepage></Homepage>
 </template>
 
 <script>
+import Homepage from '../Views/Homepage.Vue';
 
 export default {
   name: 'App',
   components: {
-    
+    Homepage,
   }
 }
 </script>
 
 <style scoped>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+
 </style>
