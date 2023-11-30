@@ -1,6 +1,6 @@
 <template>
     <div id="main-wrapper">
-      <p>temp empty</p>
+      <p>temp empty navbar</p>
     </div>
   </template>
   
